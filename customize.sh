@@ -1,7 +1,7 @@
 #!/system/bin/sh
 # Written by Zibri (Zibri @ GitHub)
 
-MAGISKBOOT="magiskboot"
+MAGISKBOOT="./magiskboot"
 
 err() {
 	echo -e "\e[94m[!] $@\e[39m"
